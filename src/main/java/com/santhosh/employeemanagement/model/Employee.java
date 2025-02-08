@@ -20,8 +20,7 @@ public class Employee {
     private Double salary;
 
     public Employee() {
-        // Default the company field to "Google"
-        this.company = "Google";
+        this.company = "Adobe";
     }
 
     public Employee(String name, String email, String department, String company, String jobTitle, Double salary) {
